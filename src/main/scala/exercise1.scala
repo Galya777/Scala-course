@@ -1,0 +1,3 @@
+class exercise1 {
+
+}
