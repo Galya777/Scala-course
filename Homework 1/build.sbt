@@ -4,5 +4,7 @@ ThisBuild / scalaVersion := "3.3.3"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "exercises"
+    name := "Homework 1"
   )
+
+libraryDependencies += "org.scalameta" %% "munit" % "1.0.0" % Test
